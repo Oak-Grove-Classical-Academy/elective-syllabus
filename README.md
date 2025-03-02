@@ -32,7 +32,7 @@ generate random passwords and phrases, and maybe crack hashes (if we get to it).
 ### CTF
 
 Capture the Flag exercises are pretty popular in the cybersecurity space, so you, the class, will compete against me to try and capture hidden flags. If anyone finds the flag and emails it to me
-by Thursday night before class, I'll bring donuts to class. These will increase in difficulty every week. You'll get the a hint every week in class. 
+by Thursday night before class, I'll bring donuts to class. These will increase in difficulty every week. You'll get a hint every week in class. 
 
 Flags will be of the format `og{This is the flag}`. You'd email me "This is the flag", which is the flag. Pretty straightforward.
 
@@ -41,6 +41,7 @@ Flags will be of the format `og{This is the flag}`. You'd email me "This is the 
 - [VSCode](https://code.visualstudio.com/)
 - [All the Rust stuff](https://code.visualstudio.com/docs/languages/rust)
 - [Rustlings](https://rustlings.cool/)
+- This syllabus: https://github.com/Oak-Grove-Classical-Academy/elective-syllabus
 
 ## Homework
 
