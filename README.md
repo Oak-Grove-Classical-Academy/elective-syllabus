@@ -2,7 +2,21 @@
 
 ## Course Description
 
-The purpose of this course is to expose you to programming and cybersecurity concepts, and what it may be like to work in a field like this. That means you need no prior knowledge of either, only a general interest. In this course you will learn some basics of programming in the Rust language, as well as some cybersecurity topics.
+The purpose of this course is to expose you to programming and cybersecurity concepts, and what it may be like to work in a field like this. 
+That means you need no prior knowledge of either, only a general interest. In this course you will learn some basics of programming in the Rust language, as well as some cybersecurity topics.
+
+## Goal
+
+1. I want to expose you to programming, cybersecurity, and general engineering work so that you can decide whether you'd like to work in this area. If you decide you do and show aptitude in the
+subject matter, I'll gladly help you along with letters of recommendation and general guidance. If you don't think this is for you, that's perfectly fine! Assuming I did an okay job teaching, 
+figuring this out for yourself is a valuable outcome. I still expect you to participate in the class to the best of your ability.
+
+2. I want to be a resource for you as an engineer. Please feel free to ask questions related to any of these topics.
+
+## Grades
+
+This is a Pass/Fail course. You're going to have to really mess things up to fail, but I guess nothing is impossible. If you participate, do the homework, and don't disrupt class, you will have
+nothing to worry about.
 
 ## Topics
 
@@ -18,7 +32,9 @@ generate random passwords and phrases, and maybe crack hashes (if we get to it).
 ### CTF
 
 Capture the Flag exercises are pretty popular in the cybersecurity space, so you, the class, will compete against me to try and capture hidden flags. If anyone finds the flag and emails it to me
-by Thursday night before class, I'll bring donuts to class. These will increase in difficulty every week. You'll get the a hint every week in class.
+by Thursday night before class, I'll bring donuts to class. These will increase in difficulty every week. You'll get the a hint every week in class. 
+
+Flags will be of the format `og{This is the flag}`. You'd email me "This is the flag", which is the flag. Pretty straightforward.
 
 ## What you'll need
 
