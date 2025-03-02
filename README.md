@@ -3,7 +3,7 @@
 ## Course Description
 
 The purpose of this course is to expose you to programming and cybersecurity concepts, and what it may be like to work in a field like this. 
-That means you need no prior knowledge of either, only a general interest. In this course you will learn some basics of programming in the Rust language, as well as some cybersecurity topics.
+That means you need no prior knowledge of either, only a general interest. See below for the topics we will cover.
 
 ## Goal
 
