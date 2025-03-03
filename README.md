@@ -58,7 +58,7 @@ may test you.
 
 ## Schedule
 
-### Week 1
+### Week 1 (14 Mar 2025)
 
 - Introductions: you, me, Rust
 - Make sure your laptops are set up
@@ -66,52 +66,39 @@ may test you.
 - Start on pwutil
 - CTF #1 hint
 
-### Week 2
+### Week 2 (4 Apr 2025)
 
 - CTF #1 Recap
 - Rustlings exercises 4-7
 - Continue pwutil
 - CTF #2 hint
 
-### Week 3
+### Week 3 (11 Apr 2025)
 
 - CTF #2 Recap
 - Rustlings exercises 8-11
 - Continue pwutil
 - CTF #3 hint
 
-### Week 4
+### Week 4 (25 Apr 2025)
 
 - CTF #3 Recap
 - Rustlings exercises 12-15
 - Continue pwutil
 - CTF #4 hint
 
-### Week 5
+### Week 5 (2 May 2025)
 
 - CTF #4 Recap
 - Rustlings exercises 16-19
 - Continue pwutil
 - CTF #5 hint
 
-### Week 6
+### Week 6 (9 May 2025)
 
 - CTF #5 Recap
 - Rustlings exercises 20-23
-- Continue pwutil
-- CTF #6 hint
-
-### Week 7
-
-- CTF #6 Recap
-- Rustlings exercises catchup
-- Continue pwutil
-- CTF #7 hint
-
-### Week 8
-
-- CTF #7 Recap
-- Donuts!
+- Treats!
 - Continue pwutil
 - Celebrate
 
