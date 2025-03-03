@@ -5,13 +5,21 @@
 The purpose of this course is to expose you to programming and cybersecurity concepts, and what it may be like to work in a field like this. 
 That means you need no prior knowledge of either, only a general interest. See below for the topics we will cover.
 
-## Goal
+## Goals
 
 1. I want to expose you to programming, cybersecurity, and general engineering work so that you can decide whether you'd like to work in this area. If you decide you do and show aptitude in the
 subject matter, I'll gladly help you along with letters of recommendation and general guidance. If you don't think this is for you, that's perfectly fine! Assuming I did an okay job teaching, 
 figuring this out for yourself is a valuable outcome. I still expect you to participate in the class to the best of your ability.
 
 2. I want to be a resource for you as an engineer. Please feel free to ask questions related to any of these topics.
+
+## Expectations
+
+I have the highest expectations as regards your behavior and conduct because I know you are capable of rising to them. Specifically, this means:
+
+1. Act in accordance with the OGCA Code of Conduct
+1. Be engaged. The more you put into this class, the more you will get out.
+1. Pay attention. No side conversations or distracting behavior.
 
 ## Grades
 
@@ -32,7 +40,7 @@ generate random passwords and phrases, and maybe crack hashes (if we get to it).
 ### CTF
 
 Capture the Flag exercises are pretty popular in the cybersecurity space, so you, the class, will compete against me to try and capture hidden flags. If anyone finds the flag and emails it to me
-by Thursday night before class, I'll bring donuts to class. These will increase in difficulty every week. You'll get a hint every week in class. 
+by Thursday night before class, I'll bring a treat to class. These will increase in difficulty every week. You'll get a new hint every week in class. 
 
 Flags will be of the format `og{This is the flag}`. You'd email me "This is the flag", which is the flag. Pretty straightforward.
 
