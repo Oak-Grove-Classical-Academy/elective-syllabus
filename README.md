@@ -29,12 +29,13 @@ This is a Pass/Fail course. You will be graded on attendance and participation. 
 
 ### Rust programming
 
-We'll focus on working through Rustlings, a guided tour through Rust. The Rustlings exercises refer to chapters in the Official Rust Book, which you should bookmark and read.
+We'll focus on working through Rustlings, a guided tour through Rust. The Rustlings exercises refer to chapters in the Official Rust Book, which you should bookmark and read. See below 
+for [what you'll need](#what-youll-need).
 
 ### Project
 
-We'll also work on a small project together. I will live-code it, and you are free to follow along. Code will be on Github later. For this semester it'll be a small password utility that can
-generate random passwords and phrases, and maybe crack hashes (if we get to it).
+We'll also work on a small project together. I will live-code it, you are free to follow along. Code will be on Github later. For this semester it'll be a small password utility that can
+generate random passwords and phrases, and maybe crack hashes (if we get to it). I hope to show you the every-day kind of work you may be doing as a (software) engineer.
 
 ### CTF
 
