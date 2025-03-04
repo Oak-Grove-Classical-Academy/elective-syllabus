@@ -56,6 +56,7 @@ You won't need to know anything about `git` or Github for this class, but it'd b
 
 To get set up for the class, do these in order.
 
+1. Have a Mac, Linux, or Windows laptop (and bring it to class each week)
 1. Bookmark and read this syllabus: https://github.com/Oak-Grove-Classical-Academy/elective-syllabus
 1. Download and set up [VSCode](https://code.visualstudio.com/)
 1. Install [all the Rust stuff](https://code.visualstudio.com/docs/languages/rust)
