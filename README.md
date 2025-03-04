@@ -29,8 +29,7 @@ This is a Pass/Fail course. You will be graded on attendance and participation. 
 
 ### Rust programming
 
-We'll focus on working through [Rustlings exercises](https://rustlings.cool), so be sure and get set up for that. The exercises refer to chapters in the [Official Rust Book](https://doc.rust-lang.org/book/title-page.html), which you should bookmark and read.
-I have read that book many times and still learn or reinforce concepts from it.
+We'll focus on working through Rustlings, a guided tour through Rust. The Rustlings exercises refer to chapters in the Official Rust Book, which you should bookmark and read.
 
 ### Project
 
@@ -54,10 +53,13 @@ You won't need to know anything about `git` or Github for this class, but it'd b
 
 ## What you'll need
 
-- [VSCode](https://code.visualstudio.com/)
-- [All the Rust stuff](https://code.visualstudio.com/docs/languages/rust)
-- [Rustlings](https://rustlings.cool/)
-- This syllabus: https://github.com/Oak-Grove-Classical-Academy/elective-syllabus
+To get set up for the class, do these in order.
+
+1. Bookmark and read this syllabus: https://github.com/Oak-Grove-Classical-Academy/elective-syllabus
+1. Download and set up [VSCode](https://code.visualstudio.com/)
+1. Install [all the Rust stuff](https://code.visualstudio.com/docs/languages/rust)
+1. Install [Rustlings](https://rustlings.cool/)
+1. Read [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html)
 
 ## Homework
 
