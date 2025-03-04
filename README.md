@@ -23,14 +23,14 @@ I have the highest expectations as regards your behavior and conduct because I k
 
 ## Grades
 
-This is a Pass/Fail course. You're going to have to really mess things up to fail, but I guess nothing is impossible. If you participate, do the homework, and don't disrupt class, you will have
-nothing to worry about.
+This is a Pass/Fail course. You will be graded on attendance and participation. If you show up and participate, you'll do great!
 
 ## Topics
 
 ### Rust programming
 
-We'll focus on working through [Rustlings exercises](https://rustlings.cool), so be sure and get set up for that. The exercises refer to chapters in the [Official Rust Book](https://doc.rust-lang.org/book/title-page.html), which you should bookmark.
+We'll focus on working through [Rustlings exercises](https://rustlings.cool), so be sure and get set up for that. The exercises refer to chapters in the [Official Rust Book](https://doc.rust-lang.org/book/title-page.html), which you should bookmark and read.
+I have read that book many times and still learn or reinforce concepts from it.
 
 ### Project
 
@@ -43,6 +43,14 @@ Capture the Flag exercises are pretty popular in the cybersecurity space, so you
 by Thursday night before class, I'll bring a treat to class. These will increase in difficulty every week. You'll get a new hint every week in class. 
 
 Flags will be of the format `og{This is the flag}`. You'd email me "This is the flag", which is the flag. Pretty straightforward.
+
+## Non-Topics
+
+While closely related to software engineering, we won't have time to dive into any of these. But let me know if you're interested and we can touch on them or take it offline.
+
+### Version Control
+
+You won't need to know anything about `git` or Github for this class, but it'd be helpful if you wanted to continue in this area.
 
 ## What you'll need
 
