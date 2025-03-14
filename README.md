@@ -72,6 +72,8 @@ may test you.
 
 ### Week 1 (14 Mar 2025)
 
+[Notes](week1-notes.md)
+
 - Introductions: you, me, Rust
 - Make sure your laptops are set up
 - Rustlings exercises 0-3
