@@ -14,13 +14,16 @@ may be hidden behind a `...`).
 ## Rustlings
 
 Once you have rustlings installed, you can open that terminal, `cd rustlings`, then `rustlings` to start it. Then you can open the rustlings folder in VSCode and have both the code and the rustlings 
-exercise process open. Follow the instructions on the rustlings site to get going. In every folder's README.md, you'll find a link to the Rust book chapter. Read that! It'll teach you what you need to know
-for that exercise.
+"Watch Mode" open. Refer to the instructions on the rustlings site to get going. In every exercise folder's README.md, you'll also find a link to the Rust book chapter. Read that! It'll teach you what you need to know for that exercise and it is very, very good.
 
 ## Homework
 
-Per the syllabus, work through Exercise 3. You have 3 weeks before we meet again.
+Per the syllabus, work through Rustlings Exercise 3. You have 3 weeks before we meet again, that should be plenty of time. To get the most out of this class, work ahead or start playing around with your own project.
 
 ## Asking for help
 
 Before you ask me for help, look back at the resources linked from the syllabus and follow those. If you get really stuck, please do email me. But I expect you to put in some work and try it yourself first.
+
+## The Syllabus
+
+Did I mention the syllabus is your prime resource? Make sure you read it.
