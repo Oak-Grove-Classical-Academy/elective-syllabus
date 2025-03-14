@@ -2,7 +2,7 @@
 
 ## Xcode/Visual Studio
 
-If for any reason your `rustup` install got canceled, or you tried to run `cargo install rustlings` and it gave you a lot of red, you need the developer tools for your platform.
+If for any reason your `rustup` install got canceled, or you tried to run `cargo install Rustlings` and it gave you a lot of red, you need the developer tools for your platform.
 For Windows, just re-run the `rustup.exe` installer and choose option 1 to install the prerequisites. For Mac, you can run this in a terminal: `xcode-select --install`, then look for
 the window that popped up to install the tools. 
 
@@ -13,8 +13,8 @@ may be hidden behind a `...`).
 
 ## Rustlings
 
-Once you have rustlings installed, you can open that terminal, `cd rustlings`, then `rustlings` to start it. Then you can open the rustlings folder in VSCode and have both the code and the rustlings 
-"Watch Mode" open. Refer to the instructions on the rustlings site to get going. In every exercise folder's README.md, you'll also find a link to the Rust book chapter. Read that! It'll teach you what you need to know for that exercise and it is very, very good.
+Once you have Rustlings installed, you can open that terminal, `cd rustlings`, then `rustlings` to start it. Then you can open the `rustlings` folder in VSCode and have both the code and the Rustlings 
+"Watch Mode" open. Refer to the instructions on the Rustlings site to get going. In every exercise folder's README.md, you'll also find a link to the Rust book chapter. Read that! It'll teach you what you need to know for that exercise and it is very, very good. Come to the next class with questions, or email me.
 
 ## Homework
 
@@ -27,3 +27,7 @@ Before you ask me for help, look back at the resources linked from the syllabus 
 ## The Syllabus
 
 Did I mention the syllabus is your prime resource? Make sure you read it.
+
+## Next class
+
+Refer to the syllabus for details. I am hoping to spend more time actually teaching Rust alongside Rustlings, so please make sure you're set up and have completed the assigned exercises from Week 1.

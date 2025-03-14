@@ -79,14 +79,14 @@ may test you.
 - Introductions: you, me, Rust
 - Make sure your laptops are set up
 - Rustlings exercises 0-3
-- Start on pwutil
+- ~~Start on pwutil~~
 - CTF #1 hint
 
 ### Week 2 (4 Apr 2025)
 
 - CTF #1 Recap
 - Rustlings exercises 4-7
-- Continue pwutil
+- ~~Continue~~ Start pwutil
 - CTF #2 hint
 
 ### Week 3 (11 Apr 2025)
