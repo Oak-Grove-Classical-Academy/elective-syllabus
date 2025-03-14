@@ -44,6 +44,8 @@ by Thursday night before class, I'll bring a treat to class. These will increase
 
 Flags will be of the format `og{This is the flag}`. You'd email me "This is the flag", which is the flag. Pretty straightforward.
 
+The CTF hint is: `ctf.alltohim.io`
+
 ## Non-Topics
 
 While closely related to software engineering, we won't have time to dive into any of these. But let me know if you're interested and we can touch on them or take it offline.
