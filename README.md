@@ -61,7 +61,8 @@ To get set up for the class, do these in order.
 1. Have a Mac, Linux, or Windows laptop (and bring it to class each week)
 1. Bookmark and read this syllabus: https://github.com/Oak-Grove-Classical-Academy/elective-syllabus
 1. Download and set up [VSCode](https://code.visualstudio.com/)
-    - Check out [these videos to learn more](https://code.visualstudio.com/docs/getstarted/introvideos) about how to use VSCode
+    - [VSCode tutorial](https://code.visualstudio.com/docs/getstarted/getting-started)
+    - [Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos) about how to use VSCode
 1. Install [all the Rust stuff](https://code.visualstudio.com/docs/languages/rust)
 1. Install [Rustlings](https://rustlings.cool/)
 1. Read [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html)
