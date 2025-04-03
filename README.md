@@ -67,6 +67,10 @@ To get set up for the class, do these in order.
 1. Install [Rustlings](https://rustlings.cool/)
 1. Read [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html)
 
+## Additional Resources
+
+- [cheats.rs](https://cheats.rs/): It has all the things. May be a bit overwhelming, but if you know what you're looking for, it's a great resource.
+
 ## Homework
 
 I expect you to finish the Rustlings exercises we started in class and read the associated chapters in the Rust book. Then come with questions. If you don't, I will assume you understand it perfectly and 
