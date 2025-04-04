@@ -85,7 +85,7 @@ may test you.
 - Introductions: you, me, Rust
 - Make sure your laptops are set up
 - Rustlings exercises 0-3
-- ~~Start on pwutil~~
+- ~~Start on cracker~~
 - CTF #1 hint
 
 ### Week 2 (4 Apr 2025)
@@ -101,21 +101,21 @@ may test you.
 
 - CTF #2 Recap
 - Rustlings exercises 8-11
-- Continue pwutil
+- Continue cracker
 - CTF #3 hint
 
 ### Week 4 (25 Apr 2025)
 
 - CTF #3 Recap
 - Rustlings exercises 12-15
-- Continue pwutil
+- Continue cracker
 - CTF #4 hint
 
 ### Week 5 (2 May 2025)
 
 - CTF #4 Recap
 - Rustlings exercises 16-19
-- Continue pwutil
+- Continue cracker
 - CTF #5 hint
 
 ### Week 6 (9 May 2025)
@@ -123,6 +123,6 @@ may test you.
 - CTF #5 Recap
 - Rustlings exercises 20-23
 - Treats!
-- Continue pwutil
+- Continue cracker
 - Celebrate
 
