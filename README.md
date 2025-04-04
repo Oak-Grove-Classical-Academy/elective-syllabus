@@ -90,6 +90,8 @@ may test you.
 
 ### Week 2 (4 Apr 2025)
 
+[Notes](week2-notes.md)
+
 - CTF #1 Recap
 - Rustlings exercises 4-7
 - ~~Continue~~ Start pwutil
