@@ -94,7 +94,7 @@ may test you.
 
 - CTF #1 Recap
 - Rustlings exercises 4-7
-- ~~Continue~~ Start pwutil
+- ~~Continue~~ Start [cracker](https://github.com/Oak-Grove-Classical-Academy/cracker)
 - CTF #2 hint
 
 ### Week 3 (11 Apr 2025)
