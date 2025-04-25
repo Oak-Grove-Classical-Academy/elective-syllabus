@@ -134,6 +134,8 @@ will assume you understand it perfectly and may test you.
 
 ### Week 4 (25 Apr 2025)
 
+[Notes](week4-notes.md)
+
 - CTF #3 Recap
 - Rustlings exercises 12-15
 - Continue cracker
