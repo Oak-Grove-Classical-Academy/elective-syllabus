@@ -143,6 +143,8 @@ will assume you understand it perfectly and may test you.
 
 ### Week 5 (2 May 2025)
 
+[Notes](week5-notes.md)
+
 - CTF #4 Recap
 - Rustlings exercises 16-19
 - Continue cracker
@@ -151,7 +153,6 @@ will assume you understand it perfectly and may test you.
 ### Week 6 (9 May 2025)
 
 - CTF #5 Recap
-- Rustlings exercises 20-23
 - Treats!
-- Continue cracker
-- Celebrate
+- Phrack crackme
+- AMA
