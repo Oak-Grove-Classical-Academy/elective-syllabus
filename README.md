@@ -30,6 +30,17 @@ Pass/Fail based on attendance, participation, and effort.
 - Access to [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html)
 - Git and Github account (optional, but recommended)
 
+## Resources
+
+### The Rust Book
+[The Official Rust Book](https://doc.rust-lang.org/book/title-page.html) is the primary learning resource for Rust. Some topics below reference specific chapters to read. The book is free, comprehensive, and the gold standard for learning Rust.
+
+### Rustlings
+[Rustlings](https://rustlings.cool/) provides interactive exercises to practice Rust concepts. These are optional for Term 1 but can be used for Term 2 project work.
+
+### Rust Playground
+[Rust Playground](https://play.rust-lang.org/) allows you to write and run Rust code directly in your browser without installing anything. Perfect for experimenting with Rust without setting up the whole environment.
+
 ---
 
 ## Term 1
