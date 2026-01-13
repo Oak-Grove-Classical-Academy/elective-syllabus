@@ -7,7 +7,7 @@ This course introduces students to programming using Rust, a modern systems prog
 ## Goals
 
 - Build foundational programming skills in Rust.
-- Explore a variety of programming domains (CLI tools, web, games, data, etc.).
+- Explore a variety of programming domains (CLI tools, web, data, etc.).
 - Develop problem-solving and teamwork through projects.
 - Ensure all students, regardless of background, can participate and succeed.
 
@@ -24,7 +24,7 @@ Pass/Fail based on attendance, participation, and effort.
 
 ## What You'll Need
 
-- Mac, Linux, or Windows laptop (bring to class)
+- Mac, Linux, or Windows laptop (bring to class for Term 2 only)
 - [VSCode](https://code.visualstudio.com/) installed
 - [Rust](https://www.rust-lang.org/tools/install) and [Rustlings](https://rustlings.cool/) installed
 - Access to [The Official Rust Book](https://doc.rust-lang.org/book/title-page.html)
@@ -34,82 +34,77 @@ Pass/Fail based on attendance, participation, and effort.
 
 ## Term 1
 
-**Week 1:** Crash Course & Introduction + Hello World  
+**Week 1:** Crash Course & Introduction
 - What is programming? (simple explanation, analogy)
 - What is Rust? (brief description)
 - Why learn programming? (real-world applications, career paths)
-- Basic terminology overview (variable, function, bug, compile, terminal, etc. with analogies)
-- Course overview: syllabus, expectations, grading, what to expect
+- Course overview: syllabus, expectations, what to expect
 - How the class will work: teaching, projects, exercises, support
-- Q&A and icebreakers
+- Q&A
 - Set expectations: no prior experience needed, everyone can succeed
-- Write your first Rust program: "Hello, World!" (Rust Book Ch 1.2)
-- Begin showcasing cool Rust projects: Probe, Buddy-Up, esvmd
+- Begin showcasing cool Rust projects: Probe, Buddy-Up, esvmd, snot, masterminder, Book Tracker
 
-**Week 2:** Rust Project Showcase (Part 2) + AI Agents & Vibe Coding  
-- Finish demo of Rust projects: snot, longer, masterminder
-- Emphasize problem solving and real-world use cases for each project
-- Pose fun questions and challenges for students to think about
-- Encourage exploration and discussion of how these tools work and what problems they solve
-- Show the variety of things you can build with programming
-- Showcase AI-powered development tools and workflows  
-- Live coding session: building something fun with AI assistance  
-- Explore how AI can help with learning Rust and problem-solving  
-- Hands-on experimentation with AI coding tools  
-- Discussion: the future of programming with AI assistance
+**Week 2:** Understanding AI & Modern Development Tools  
+- What are Large Language Models (LLMs)? How do they work?
+- How AI is changing software development
+- Demo: OpenCode and AI-assisted coding tools
+- Live coding: building a feature with AI assistance (demonstration only)
+- Discussion: AI as a learning aid and development tool
 
-**Week 3:** Version Control & Git/GitHub  
-- Introduction to Git and GitHub: tracking changes, collaboration, and sharing code
-- Hands-on: setting up repositories, making commits, pushing to GitHub
-- Explore open source projects and how developers collaborate
-- Practice: version control for your own code projects
-- Discussion: why version control is essential for programming
+**Week 3:** Version Control Concepts & Tools  
+- What is version control? Why do programmers need it?
+- Understanding change tracking as a graph: commits, branches, merges
+- Whiteboard session: visualizing version control concepts
+- Introduction to Git: the industry standard (brief overview)
+- Introduction to Jujutsu (jj): modern version control with cleaner design
+- Demo: tracking changes, creating branches, merging work
+- Discussion: collaboration and code history in real-world projects
 
-**Week 4:** Data Types & Variables  
+**Week 4:** Your First Rust Program & Basic Types  
+- Anatomy of a Rust program: `fn main()` and program structure
+- Cargo basics: creating and running projects
+- Demo: Hello World line-by-line explanation (using Rust Playground)
+- The `println!` macro and formatted output
 - Understanding variables: mutable vs immutable (Rust Book Ch 3.1)
-- Data types: integers, floats, strings, characters (Rust Book Ch 3.2)
-- String vs &str: understanding string types
-- String manipulation and formatting
-- Hands-on: interactive coding exercises with basic data types
+- Data types: integers, floats, booleans, characters (Rust Book Ch 3.2)
 
-**Week 5:** Control Flow & Booleans  
+**Week 5:** Control Flow & Logic  
 - Boolean values and logical operations (Rust Book Ch 3.2)
 - if/else statements and decision making (Rust Book Ch 3.5)
 - Comparison operators (==, !=, <, >, etc.)
 - Combining conditions with && and ||
-- Introduction to expressions vs statements
-- Interactive exercises: building simple decision-making programs
+- Introduction to expressions vs statements (Rust's everything-is-an-expression philosophy)
+- Demo: building simple decision-making programs
 
 **Week 6:** Vectors & Loops  
-- Introduction to vectors (collections of data) (Rust Book Ch 8.1)
+- Introduction to vectors: creating and storing collections of data (Rust Book Ch 8.1)
+- Creating vectors: `vec![]` macro and `Vec::new()`
 - Vector indexing and bounds checking
 - for loops: iterating through collections (Rust Book Ch 3.5)
+- Iterator patterns: `.iter()` method and how for loops work
 - while loops: repeating until a condition is met
 - loop: infinite loops with break and continue
-- Iterator patterns and .iter() method
-- Hands-on: processing lists of data
+- Demo: processing lists of data with different loop types
 
 **Week 7:** Functions, Structs & Ownership Basics  
 - Writing your own functions: parameters and return values (Rust Book Ch 3.3)
 - Function scope and organization
 - Introduction to ownership: what happens when values move (Rust Book Ch 4.1)
+- String vs &str: understanding owned vs borrowed string types
+- String manipulation and formatting
 - Introduction to structs: grouping related data (Rust Book Ch 5.1)
 - Methods: functions that belong to structs (Rust Book Ch 5.3)
 - Building a simple program that combines all concepts learned
 
-**Week 8:** Enums, Pattern Matching & Error Handling + AMA  
-- Introduction to enums: defining custom types with variants (Rust Book Ch 6.1)
-- Pattern matching with match expressions (Rust Book Ch 6.2)
-- Introduction to Option<T> for handling missing values (Rust Book Ch 6.1)
-- Basic error handling with Result<T, E> (Rust Book Ch 9.2)
-- Using enums for state management
-- Combining enums with structs for powerful data modeling
-- Hands-on: building programs that use enums and match
-- Ask Me Anything session about programming, Rust, careers in tech
-- Q&A about anything covered in Term 1
-- Discussion: what excites you most about programming?
+**Week 8: Structs, Methods & Error Handling**
+- Introduction to structs: grouping related data (Rust Book Ch 5.1)
+- Methods: functions that belong to structs (Rust Book Ch 5.3)
+- Introduction to enums through Option<T>: handling missing values (Rust Book Ch 6.1)
+- Introduction to Result<T, E>: handling errors (Rust Book Ch 9.2)
+- Pattern matching with `match` to handle Option and Result (Rust Book Ch 6.2)
+- Demo: building a program with structs, methods, and error handling
+- Review: what we've learned in Term 1
 - Preview of Term 2 projects and expectations
-- Treats and celebration before project work begins!
 
 
 ## Term 2
